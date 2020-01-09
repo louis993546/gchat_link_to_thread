@@ -1,0 +1,11 @@
+{
+  "name": "gchat_link_to_thread",
+  "version": "0.0.1",
+  "description": "Add a button to copy link to a Hangouts Chat thread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Tsai",
+  "license": "MIT"
+}

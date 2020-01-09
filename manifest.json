@@ -1,0 +1,6 @@
+{
+    "name": "gchat_link_to_thread",
+    "version": "0.0.2",
+    "description": "Add a button to copy link to a Hangouts Chat thread",
+    "manifest_version": 2
+  }
